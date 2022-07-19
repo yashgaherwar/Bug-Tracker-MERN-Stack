@@ -1,5 +1,5 @@
 {
-  "name": "bug-tracker",
+  "name": "Bug-Tracking-System",
   "version": "1.0.0",
   "description": "Application to allow employees to keep track of current bugs they are working to fix",
   "main": "server.js",

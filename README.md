@@ -1,4 +1,4 @@
-# Bug-Tracker-MERN
+# Bug-Tracking-System-MERN-Stack
 Fully Responsive Full MERN Stack Application written in modern React on the frontend with Hooks and Context. Designed to allow employees/developers to keep track of the current tasks/bugs they are working on. Backend with Node/Express and MongoDB for the database. Tested with Postman. Used other npm packages and express middleware. Authentication using JSON Web Tokens.
 
 ## Installation

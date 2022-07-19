@@ -1,6 +1,6 @@
 const mongoose = require('mongoose');
 const config = require('config');
-mongoURI="mongodb+srv://Yash:yash@cluster0.gtnju.mongodb.net/Bug-Tracker-MERN?retryWrites=true&w=majority"
+mongoURI=""
 //const db = config.mongoURI;
 const db = config.get('mongoURI');
 

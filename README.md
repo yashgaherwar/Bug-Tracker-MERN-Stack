@@ -3,7 +3,7 @@ Fully Responsive Full MERN Stack Application written in modern React on the fron
 
 ## Installation
 
-You can install this application by running `git clone https://github.com/HarryWilson1995/Bug-Tracker-MERN`
+You can install this application by running ``
 
 After cloning the repository, make sure to install all dependencies by running the following command (both in the client folder and in the root for the serverside dependencies):
 
@@ -19,15 +19,13 @@ npm run dev
 
 ## Usage
 
-You can see a detailed description/usage of the app by watching the following [Youtube Video](https://youtu.be/fh0B3c216Bw).
 
 ## Hosted Site 
 
-This application is hosted on Heroku and can be found at the following link: https://bug-tracker-pro.herokuapp.com/
+
 
 ## License
 
-The app is available as open source under the terms of the [MIT License](https://opensource.org/licenses/MIT).
 
 ## Future Plans 
 

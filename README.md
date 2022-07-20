@@ -1,32 +1,22 @@
 # Bug-Tracking-System-MERN-Stack
-Fully Responsive Full MERN Stack Application written in modern React on the frontend with Hooks and Context. Designed to allow employees/developers to keep track of the current tasks/bugs they are working on. Backend with Node/Express and MongoDB for the database. Tested with Postman. Used other npm packages and express middleware. Authentication using JSON Web Tokens.
+Fully Responsive MERN Stack Application created using modern React on the frontend with Hooks and Context. It helps Software developers to keep track of the current tasks or bugs they are working on. It will be helpful to them for Prioritizing the bugs and makes the development process fasat.
+For Backend Node and Express is used and MongoDB is used as a database. It was Tested with Postman. Other npm packages and express middleware were used. 
+Authentication is done using JSON Web Tokens.
 
-## Installation
 
-You can install this application by running ``
-
-After cloning the repository, make sure to install all dependencies by running the following command (both in the client folder and in the root for the serverside dependencies):
-
-```
-npm install
-```
-
-Making sure that you are in the root directory, run the following script which will start the server on the backend and the react server and open the app in your browser:
-
-```
-npm run dev
-```
-
-## Usage
+## Project Outcomes
+-It helps the Project Managers and Developers to manage and prioritized the Bugs and Issues in a simpler manner.
+-It Removes The Problem Of Searching The Solution Of The Bugs Everytime. And All The Data Related To Bugs And User Is Safe And Stored Securely In MongoDB Database
+-It Saves Time As It Has A Feature Of Create, Update, Delete And Read.
+-Its Makes The Overall Development Process Faster And Efficient As All Features Are Present In A Single System
 
 
 ## Hosted Site 
 
+If anyone want to know what is Bug Tracking Syatem and what features our website provides then you can visit this site.
+This website is just for explaining the features and what is Bug tracking System. This is not a main website.
+
+Link-'https://bugtrackersdp.netlify.app/'
 
 
-## License
 
-
-## Future Plans 
-
-In the future I plan on building out an admin feature of the site which will allow team leaders to check up on all the tasks their team members are working on. Following on from this I would like to implement a notification system so that anyone working on a bug will receive an email when a task is edited/updated/deleted.

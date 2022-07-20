@@ -15,8 +15,8 @@ Authentication is done using JSON Web Tokens.
 
 ## Hosted Site 
 
-If anyone want to know what is Bug Tracking Syatem and what features our website provides then you can visit this site.
-This website is just for explaining the features and what is Bug tracking System. This is not a main website.
+If anyone want to know what is Bug Tracking System and what features our website provides then you can visit this site.
+This website is just for explaining the features and what is Bug tracking System. But this is not a main website.
 
 Link-'https://bugtrackersdp.netlify.app/'
 

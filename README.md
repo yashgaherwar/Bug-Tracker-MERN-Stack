@@ -1,4 +1,4 @@
-# Bug-Tracking-System-MERN-Stack <img src="https://user-images.githubusercontent.com/72980929/179926205-c6a76aad-194d-420f-9610-146d8c46be34.png" width="50">
+# Bug-Tracker-MERN-Stack <img src="https://user-images.githubusercontent.com/72980929/179926205-c6a76aad-194d-420f-9610-146d8c46be34.png" width="50">
 
 Fully Responsive MERN Stack Application created using modern React on the frontend with Hooks and Context. It helps Software developers to keep track of the current tasks or bugs they are working on. It will be helpful to them for Prioritizing the bugs and makes the development process fasat.
 For Backend Node and Express is used and MongoDB is used as a database. It was Tested with Postman. Other npm packages and express middleware were used. 

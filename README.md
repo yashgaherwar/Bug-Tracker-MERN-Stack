@@ -5,10 +5,10 @@ Authentication is done using JSON Web Tokens.
 
 
 ## Project Outcomes
--It helps the Project Managers and Developers to manage and prioritized the Bugs and Issues in a simpler manner.
--It Removes The Problem Of Searching The Solution Of The Bugs Everytime. And All The Data Related To Bugs And User Is Safe And Stored Securely In MongoDB Database
--It Saves Time As It Has A Feature Of Create, Update, Delete And Read.
--Its Makes The Overall Development Process Faster And Efficient As All Features Are Present In A Single System
+# It helps the Project Managers and Developers to manage and prioritized the Bugs and Issues in a simpler manner.
+# It Removes The Problem Of Searching The Solution Of The Bugs Everytime. And All The Data Related To Bugs And User Is Safe And Stored Securely In MongoDB Database
+# It Saves Time As It Has A Feature Of Create, Update, Delete And Read.
+# Its Makes The Overall Development Process Faster And Efficient As All Features Are Present In A Single System
 
 
 ## Hosted Site 

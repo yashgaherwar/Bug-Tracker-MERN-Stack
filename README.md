@@ -20,6 +20,8 @@ This website is just for explaining the features and what is Bug tracking System
 
 Link-'https://bugtrackersdp.netlify.app/'
 
+
+
 ## TechStack
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -29,4 +31,27 @@ Link-'https://bugtrackersdp.netlify.app/'
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+
+
+
+
+
+
+
+
+
+## Results
+
+<img src="https://user-images.githubusercontent.com/72980929/179953685-f85a72b0-aa5b-4f07-ab85-0cd8c8289d8c.png" height="250" width="500"> <img src="https://user-images.githubusercontent.com/72980929/179954701-d5a8cbd2-10f1-4456-8f6f-585306ec260e.png" height="250" width="500">
+
+<img src="https://user-images.githubusercontent.com/72980929/179952270-116b897f-a5a6-496c-b21b-3f0d282ddf58.png" height="250" width="500">   <img src="https://user-images.githubusercontent.com/72980929/179952731-a008b18d-8a44-42a1-9d28-e1bd9534bcef.png" height="250" width="500">
+
+<img src="https://user-images.githubusercontent.com/72980929/179950656-fe00af08-5ab2-423d-aa03-e13a4c363f3d.png" height="250" width="500">  <img src="https://user-images.githubusercontent.com/72980929/179951234-f6254807-256f-406a-861b-1baed63abfc6.png" height="250" width="500">
+
+
+
+
+
+
+
 
